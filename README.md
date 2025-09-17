@@ -1,58 +1,65 @@
-<!-- Animated pixel art GIF as banner -->
+<!-- Glitch Banner at Top (customizable) -->
 <p align="center">
-  <img src="https://i.imgur.com/nQinKJB.gif" width="400" alt="Kawaii pixel rainbow animation"/>
+  <img src="https://readme-artist.vercel.app/api?effect=glitch&type=banner&text=KANISHKA" width="600" alt="Glitch Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Kanishka! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<!-- Matrix Rain Divider (SVG, fast loading) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&background=FFF4E400&center=true&vCenter=true&width=435&lines=👩‍💻+She%2FHer+%7C+Creative+Techie;✨+Let's+Make+Things+Together!;💡+Ideathon+%26+Hackathon+Buddy;🔎+Research+Enthusiast+%7C+AI+Curious" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=matrix&height=120&text1=" width="100%" alt="matrix divider"/>
 </p>
 
----
+<!-- Terminal-style ASCII Art (generated with TAAG) -->
+<pre align="center" style="font-family: monospace; font-size: 16px; color: #39ff14; background: #101010; padding: 16px;">
+   _  __              _     _     _             
+  | |/ /__ _ _ __ ___| |__ | |__ (_)_ __   __ _ 
+  | ' // _\` | '__/ __| '_ \| '_ \| | '_ \ / _\` |
+  | . \ (_| | | | (__| | | | | | | | | | | (_| |
+  |_|\_\__,_|_|  \___|_| |_|_| |_|_|_| |_|\__, |
+                                          |___/ 
+</pre>
 
-<!-- Falling stars animation using SVG -->
+<!-- Terminal Bio Section -->
+```
+> whoami
+Kanishka | Developer | Research Explorer | Tech+Art Fusion
+> cat mission.txt
+- Building creative tech for real-world impact
+- Researching ideas that matter
+- Open for collaboration: ideathons, hackathons, code
+```
+
+<!-- Second Matrix Rain Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/banner_temporal.svg?color=gradient&height=200&type=wave&section=footer" alt="capsule banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=matrix&height=80&text1=PROJECTS" width="100%" alt="matrix divider"/>
 </p>
 
-<!-- Cutesy waving pixel character GIF -->
+<!-- Custom GitHub Stats (with matching color palette) -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/7eebae4e4c184c6c6b2d91c7e0d6a9d3/tumblr_pq1i37VY0N1x9n6x2o1_500.gifv" width="100" alt="pixel waving girl"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkaidk&show_icons=true&hide_border=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=101010" width="400"/>
 </p>
 
----
-
-## 🌸 About Me
-
-- 🎨 I love blending art & tech!
-- 🤝 Open to collabs, ideathons, and hackathons
-- 🦄 Vibing in research and AI
-- 🌊 Fun fact: Coastal disaster response apps are my jam
-
----
-
-## 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-brightgreen?style=flat)
-
----
-
-## 🪄 Let's Connect!
-
-[![Gmail](https://img.shields.io/badge/-Email-informational?style=flat&logo=gmail)](mailto:kanishkabanswalsgs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kanishka-60b1b7209/)
-
----
-
-<!-- Animated pixel art footer -->
+<!-- GitHub Metrics (deep analytics, optional, needs activation) -->
+<!--
 <p align="center">
-  <img src="https://i.pinimg.com/originals/48/89/54/48895424f7d6a2c6f5e86e66b0f7bc2a.gif" width="150"/>
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" width="400"/>
+</p>
+-->
+
+<!-- Notable Projects (clean, techy list) -->
+### Notable Projects
+
+- [Coastal-Disaster-Response-App](https://github.com/kanishkaidk/Coastal-Disaster-Response-App) — Tech for disaster management
+- [ai-fashion-designer](https://github.com/kanishkaidk/ai-fashion-designer) — AI meets fashion
+- [TruthGuardPro](https://github.com/kanishkaidk/TruthGuardPro) — Real-time AI content detection
+- [signature-verifier](https://github.com/kanishkaidk/signature-verifier) — Signature validation (Python)
+- [student-portal](https://github.com/kanishkaidk/student-portal) — Student life, streamlined
+
+<!-- Final Matrix Rain Divider -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=matrix&height=40&text1=" width="100%" alt="matrix divider"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishkaidk&style=flat-square&color=F7971E" alt="profile views"/>
-</p>
+<!-- Contact (plain, techy—no emojis) -->
+**Contact:**  
+[Email](mailto:kanishkabanswalsgs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kanishka-60b1b7209/)
+
