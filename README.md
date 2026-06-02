@@ -7,20 +7,17 @@
 <div align="center" style="font-family:'Fira Mono',monospace;font-size:2em;color:#635dff;background:linear-gradient(90deg,#ffe2ec 0%,#d0f4de 100%);padding:18px 0 6px 0;border-radius:16px;">
   <b>KANISHKA</b>
   <div style="font-size:1em;color:#6c6c6c;margin-top:0.5em;">
-    Developer · Research Explorer · Tech+Art Fusion
+    Developer · Researcher · Tech+Art Fusion
   </div>
 </div>
 
 <!-- Terminal Bio Block -->
 <div align="center">
   <pre style="background:#f3eaff;color:#635dff;border-radius:10px;padding:15px;font-family:'Fira Mono',monospace;font-size:1.1em;max-width:600px;">
-&gt; whoami
-Kanishka | Developer | Research Explorer | Tech+Art Fusion
 
-&gt; cat mission.txt
 - Building creative tech for real-world impact
 - Researching ideas that matter
-- Open for collaboration: ideathons, hackathons, code
+- Up for collaboration: ideathons, hackathons, research collaboration
   </pre>
 </div>
 
@@ -31,23 +28,23 @@ Kanishka | Developer | Research Explorer | Tech+Art Fusion
     <th style="padding:16px;color:#635dff;font-size:1.13em;border-bottom:2px solid #ffe2ec;text-align:center;">📝 Description</th>
   </tr>
   <tr>
-    <td style="padding:11px;text-align:center;">🌊 <a href="https://github.com/kanishkaidk/Coastal-Disaster-Response-App" style="color:#ff88b1;"><b>Coastal-Disaster-Response-App</b></a></td>
+    <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/Coastal-Disaster-Response-App" style="color:#ff88b1;"><b>Coastal-Disaster-Response-App</b></a></td>
     <td style="padding:11px;color:#6c6c6c;">Tech for disaster management</td>
   </tr>
   <tr>
-    <td style="padding:11px;text-align:center;">👗 <a href="https://github.com/kanishkaidk/ai-fashion-designer" style="color:#8ad6cc;"><b>ai-fashion-designer</b></a></td>
+    <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/ai-fashion-designer" style="color:#8ad6cc;"><b>ai-fashion-designer</b></a></td>
     <td style="padding:11px;color:#6c6c6c;">AI meets fashion</td>
   </tr>
   <tr>
-    <td style="padding:11px;text-align:center;">🛡️ <a href="https://github.com/kanishkaidk/TruthGuardPro" style="color:#ffd670;"><b>TruthGuardPro</b></a></td>
+    <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/TruthGuardPro" style="color:#ffd670;"><b>TruthGuardPro</b></a></td>
     <td style="padding:11px;color:#6c6c6c;">Real-time AI content detection</td>
   </tr>
   <tr>
-    <td style="padding:11px;text-align:center;">🖋️ <a href="https://github.com/kanishkaidk/signature-verifier" style="color:#a0c4ff;"><b>signature-verifier</b></a></td>
+    <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/signature-verifier" style="color:#a0c4ff;"><b>signature-verifier</b></a></td>
     <td style="padding:11px;color:#6c6c6c;">Signature validation (Python)</td>
   </tr>
   <tr>
-    <td style="padding:11px;text-align:center;">🎒 <a href="https://github.com/kanishkaidk/student-portal" style="color:#cdb4db;"><b>student-portal</b></a></td>
+    <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/student-portal" style="color:#cdb4db;"><b>student-portal</b></a></td>
     <td style="padding:11px;color:#6c6c6c;">Student life, streamlined</td>
   </tr>
 </table>
@@ -62,14 +59,6 @@ Kanishka | Developer | Research Explorer | Tech+Art Fusion
   <div style="margin-top:-55px;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ4ZHUydWxubnlhZHg0b2FybXY1dGZ1bjBia3NmemluNDNiMGg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" alt="Cat with Raindrops" width="90">
   </div>
-</div>
-
-<!-- Contact Section (cute, pastel, with emoji) -->
-<div align="center" style="background:#d0f4de;border-radius:12px;padding:13px 0 10px 0;max-width:350px;margin:auto;">
-  <b style="color:#635dff;font-size:1.08em;">📬 Contact</b><br>
-  <a href="mailto:kanishkabanswalsgs@gmail.com" style="color:#ff88b1;text-decoration:none;font-weight:bold;">Email</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/kanishka-60b1b7209/" style="color:#8ad6cc;text-decoration:none;font-weight:bold;">LinkedIn</a>
 </div>
 
 <!-- Jumping Pixel Cat GIF (bottom, center) -->
