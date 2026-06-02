@@ -24,8 +24,8 @@
 <!-- Pastel Projects Table (with emojis & cute accents) -->
 <table align="center" style="background:#fff0f6;border-radius:20px;border:2px solid #ffe2ec;box-shadow:0 2px 8px #f2e4e8;min-width:320px;max-width:700px;margin:auto;font-size:1.07em;">
   <tr style="background:#f9f7fd;">
-    <th style="padding:16px;color:#635dff;font-size:1.13em;border-bottom:2px solid #ffe2ec;text-align:center;">✨ Project</th>
-    <th style="padding:16px;color:#635dff;font-size:1.13em;border-bottom:2px solid #ffe2ec;text-align:center;">📝 Description</th>
+    <th style="padding:16px;color:#635dff;font-size:1.13em;border-bottom:2px solid #ffe2ec;text-align:center;">Project</th>
+    <th style="padding:16px;color:#635dff;font-size:1.13em;border-bottom:2px solid #ffe2ec;text-align:center;">Description</th>
   </tr>
   <tr>
     <td style="padding:11px;text-align:center;"> <a href="https://github.com/kanishkaidk/Coastal-Disaster-Response-App" style="color:#ff88b1;"><b>Coastal-Disaster-Response-App</b></a></td>
@@ -49,17 +49,7 @@
   </tr>
 </table>
 
-<!-- Lowered Cat on Pastel Table + Raindrops -->
-<div align="center" style="margin-top:65px;margin-bottom:25px;">
-  <!-- Pastel Table SVG -->
-  <svg width="340" height="45">
-    <rect x="20" y="25" rx="16" ry="16" width="300" height="18" style="fill:#e0e7ff;stroke:#a5b4fc;stroke-width:2;" />
-    <ellipse cx="170" cy="39" rx="135" ry="6" style="fill:#ffe2ec;opacity:0.7;" />
-  </svg>
-  <div style="margin-top:-55px;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ4ZHUydWxubnlhZHg0b2FybXY1dGZ1bjBia3NmemluNDNiMGg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" alt="Cat with Raindrops" width="90">
-  </div>
-</div>
+
 
 <!-- Jumping Pixel Cat GIF (bottom, center) -->
 <p align="center" style="margin-top:32px;">
